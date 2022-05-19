@@ -78,9 +78,9 @@ After you cancel, your services are disabled. That means your virtual machines a
 
 After your subscription is canceled, Microsoft waits 30 - 90 days before permanently deleting your data in case you need to access it or you change your mind. We don't charge you for keeping the data. To learn more, see [Microsoft Trust Center - How we manage your data](https://go.microsoft.com/fwLink/p/?LinkID=822930&clcid=0x409).
 
-## Delete free trial or pay-as-you-go subscriptions
+## Delete subscriptions
 
-If you have a free trial or pay-as-you-go subscription, you don't have to wait 90 days for the subscription to automatically delete. You can delete your subscription *three days* after you cancel it. The **Delete subscription** option isn't available until three days after you cancel your subscription.
+You don't have to wait 90 days for the subscription to automatically delete. You can delete a subscription *three days* after you cancel it. The **Delete subscription** option isn't available until three days after you cancel your subscription.
 
 1. Wait three days after the date you canceled the subscription.
 1. Select your subscription on the [Subscriptions](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) page in the Azure portal.
@@ -91,7 +91,7 @@ If you have a free trial or pay-as-you-go subscription, you don't have to wait 9
 
 ## Delete other subscriptions
 
-The only subscription types that you can manually delete are free trial and pay-as-you-go subscriptions. All other subscription types are deleted only through the [subscription cancellation](#cancel-subscription-in-the-azure-portal) process. In other words, you can't delete a subscription directly unless it's a free trial or pay-as-you-go subscription. However, after you cancel a subscription, you can create an [Azure support request](https://go.microsoft.com/fwlink/?linkid=2083458) to ask to have the subscription deleted immediately.
+The specific subscription types that you can manually delete. All other subscription types are deleted only through the [subscription cancellation](#cancel-subscription-in-the-azure-portal) process. However, after you cancel a subscription, you can create an [Azure support request](https://go.microsoft.com/fwlink/?linkid=2083458) to ask to have the subscription deleted immediately.
 
 ## Reactivate a subscription
 
